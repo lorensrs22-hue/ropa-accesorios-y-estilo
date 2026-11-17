@@ -1,0 +1,8 @@
+{
+  "name": "Casa Vértice",
+  "description": "Tienda de ropa contemporánea con colecciones para mujeres, hombres y accesorios, catálogo completo y compra directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
